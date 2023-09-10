@@ -1,0 +1,41 @@
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\obj\Debug\BloodApp.csprojAssemblyReference.cache
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\obj\Debug\BloodApp.DonateForm.resources
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\obj\Debug\BloodApp.Form1.resources
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\obj\Debug\BloodApp.Properties.Resources.resources
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\obj\Debug\BloodApp.csproj.GenerateResource.cache
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\obj\Debug\BloodApp.csproj.CoreCompileInputs.cache
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\bin\Debug\BloodApp.exe.config
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\bin\Debug\BloodApp.exe
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\bin\Debug\BloodApp.pdb
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\obj\Debug\BloodApp.exe
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\obj\Debug\BloodApp.pdb
+C:\Users\kdryl\source\repos\BloodApp\BloodApp\obj\Debug\BloodApp.Records.resources
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\bin\Debug\BloodApp.exe.config
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\bin\Debug\BloodApp.exe
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\bin\Debug\BloodApp.pdb
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.csproj.AssemblyReference.cache
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.DonateForm.resources
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.Form1.resources
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.Properties.Resources.resources
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.Records.resources
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.csproj.GenerateResource.cache
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.csproj.CoreCompileInputs.cache
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.exe
+C:\Users\bngso\OneDrive\Masaüstü\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.pdb
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\bin\Debug\BloodApp.exe.config
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\bin\Debug\BloodApp.exe
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\bin\Debug\BloodApp.pdb
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.csproj.AssemblyReference.cache
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.DonateForm.resources
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.Form1.resources
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.Properties.Resources.resources
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.Records.resources
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.csproj.GenerateResource.cache
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.csproj.CoreCompileInputs.cache
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.exe
+C:\Users\kdryl\Desktop\BloodBank1 (2)\BloodApp\BloodApp\BloodApp\obj\Debug\BloodApp.pdb
+C:\Users\hp15s\Desktop\BloodApp (2)\BloodApp\BloodApp\obj\Debug\BloodApp.csproj.AssemblyReference.cache
+C:\Users\hp15s\Desktop\BloodApp (2)\BloodApp\BloodApp\obj\Debug\BloodApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp15s\Desktop\BloodApp (2)\BloodApp\BloodApp\obj\Debug\BloodApp.exe
+C:\Users\hp15s\Desktop\BloodApp (2)\BloodApp\BloodApp\obj\Debug\BloodApp.pdb
